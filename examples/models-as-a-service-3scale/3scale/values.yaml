@@ -15,7 +15,7 @@ operator:
 
 apimanager:
   name: apimanager
-  wildcardDomain: apps.cluster-guid.guid.sandbox.opentlc.com
+  wildcardDomain: apps.cluster-g6kmq.g6kmq.sandbox512.opentlc.com
   tenantName: maas
   llmMetrics:
     name: llm-metrics
